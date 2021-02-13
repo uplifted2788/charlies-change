@@ -1,2 +1,2 @@
 # charlies-change
-Inline retail
+Online retail
